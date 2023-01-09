@@ -1,0 +1,81 @@
+body{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    text-transform: uppercase;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+    color: plum;
+}
+
+form {
+    text-align: left;
+    border: solid 2px purple (15, 95, 95);
+    border-radius: 10px;
+    width: 25em;
+    margin:auto;
+    padding-left: 1em;
+}
+
+label {
+    border: solid 1px palevioletred;
+    background-color: plum;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+input {
+	margin-right:20px;
+    margin-top: 1em;
+    margin-bottom: 1em;;
+    border: solid 1px plum;
+    padding: 7px;
+    border-radius: 10px;
+    width: 17em;
+}
+
+button.btn {
+    background-color: rgb(181, 86, 170) !important;
+    font-size: medium;
+    text-transform: uppercase;
+    font-weight: bold;
+    color:white;
+    border: solid 1px  rgb(181, 86, 170);
+    border-radius: 5px;
+    padding: 8px;
+    width: 10vw;
+}
+
+.buttons {
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    box-sizing:border-box;
+
+}
+table {
+	width:900px;
+    margin: auto;
+    border: 1px solid  rgb(181, 86, 170);
+}
+
+th {
+	text-align:center;
+    text-transform: uppercase;
+    font-weight: 400;
+    background-color:plum;
+    color: white;
+    width: auto;
+}
+
+.borrar {
+    padding: 1px;
+    width: 80px;
+    background-color:plum;
+}
+
+nav.navbar {
+    background-color: plum;
+}
